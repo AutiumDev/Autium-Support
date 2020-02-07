@@ -1,4 +1,4 @@
-### Autium Support
+### Autium
 
 If you have any questions or problems with Autium app please contact us via:
 
